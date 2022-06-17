@@ -1,2 +1,5 @@
 This is fist line in second.txt
 
+This is second line added after intial commit from second user.
+
+
