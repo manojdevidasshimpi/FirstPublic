@@ -2,4 +2,6 @@ This is fist line in second.txt
 
 This is second line added after intial commit from second user.
 
+This line is added in feature-1 by user1
+
 
