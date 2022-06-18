@@ -4,3 +4,5 @@ This is new line added after first check-in
 
 This line is added to feature-1 branch ..
 
+Added one more line for feature-1
+
